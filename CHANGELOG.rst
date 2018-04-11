@@ -2,7 +2,7 @@
 Changelog for package talos_description_calibration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.1 (2018-04-11)
+------------------
 * Initial commit
 * Contributors: Victor Lopez
