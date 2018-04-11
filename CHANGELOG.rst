@@ -2,8 +2,8 @@
 Changelog for package talos_description_calibration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.2 (2018-04-11)
+------------------
 * Remove xacro warning
 * Fix default head position and orientation
 * Contributors: Victor Lopez
